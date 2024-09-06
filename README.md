@@ -1,1 +1,1 @@
-# hello-world
+# I know some basic knowledge regarding the web design. Now I want to improve the level with some advanced UI and responsive design. I'm excited to start this course and learn new things in upcoming lectures.

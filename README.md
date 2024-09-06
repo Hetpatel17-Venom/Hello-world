@@ -1,1 +1,1 @@
-# I know some basic knowledge regarding the web design. Now I want to improve the level with some advanced UI and responsive design. I'm excited to start this course and learn new things in upcoming lectures.
+# I have a basic understanding of web design. Right now, I target to increase the standard by using responsive design and an innovative user interface. I can't wait to begin this course and study what's new in the next lectures.
